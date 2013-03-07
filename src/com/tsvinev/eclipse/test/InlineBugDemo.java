@@ -12,7 +12,7 @@ public class InlineBugDemo {
     String parameter;
 
     /**
-     * Inline variable refactroing bug demo:
+     * Inline variable refactoring bug demo:
      * 1. Select variable cca
      * 2. Press Option+Command+I for "inline variable"
      * 3. The prompt dialog will show "Inline 2 occurences of local variable cca?"
